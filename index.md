@@ -4,19 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an Economics Ph.D. candidate at California Institute of Technology.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Empirical Indusrial Organization:**
+- **Econometrics:**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+## Research
+### Job-Market Paper
+### Working Papers
+- [The Impact of Privacy Measures on Online Advertising Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782889)
+   <br>
+   (with Miguel Alcobendas and Matthew Shum)
 
 {% include_relative _includes/publications.md %}
 
