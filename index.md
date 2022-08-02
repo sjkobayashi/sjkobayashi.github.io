@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Economics Ph.D. candidate at California Institute of Technology.
+I am a Ph.D. candidate in economics at California Institute of Technology.
 
 ## Research Interests
 
@@ -18,7 +18,7 @@ I am an Economics Ph.D. candidate at California Institute of Technology.
 ### Working Papers
 - [The Impact of Privacy Measures on Online Advertising Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782889)
    <br>
-   (with Miguel Alcobendas and Matthew Shum)
+   (with [Miguel Alcobendas](https://maalcobendas.weebly.com/) and [Matthew Shum](http://www.its.caltech.edu/~mshum/))
 
 {% include_relative _includes/publications.md %}
 
