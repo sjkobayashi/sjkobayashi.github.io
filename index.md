@@ -16,12 +16,15 @@ My research interests are *Empirical Industrial Organization* and *Econometrics*
 ## News
 
 ## Research
+
 ### Job-Market Paper
 - Dynamic Inefficiency in Online Decentralized Advertising Auctions
+
 ### Working Papers
 - [The Impact of Privacy Measures on Online Advertising Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782889)
    <br>
    with Miguel Alcobendas (Yahoo) and Matthew Shum (Caltech)
+
 ### Work-in-progress Papers
 - Model-Agnostic Estimation of Non-Expected Utility Models
    <br>
