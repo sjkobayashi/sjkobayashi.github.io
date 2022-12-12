@@ -20,6 +20,6 @@ I am a Ph.D. candidate in economics at California Institute of Technology.
    <br>
    with Miguel Alcobendas (Yahoo) and Matthew Shum (Caltech)
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
