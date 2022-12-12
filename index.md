@@ -8,11 +8,6 @@ I am a Ph.D. candidate in economics at California Institute of Technology.
 
 My research interests are *Empirical Industrial Organization* and *Econometrics*, and my main body of research has studied the competitive and welfare implications of various institutional features in the online advertising market, such as privacy protection measures and dynamic incentives in ad auctions.
 
-## Research Interests
-
-- **Empirical Indusrial Organization:**
-- **Econometrics:**
-
 ## Job-Market Paper
 - Dynamic Inefficiency in Online Decentralized Advertising Auctions
 
