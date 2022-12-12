@@ -26,6 +26,8 @@ My research interests are *Empirical Industrial Organization* and *Econometrics*
 - Model-Agnostic Estimation of Non-Expected Utility Models
    <br>
    with Aldo Lucia (Caltech)
+
+
 <!-- {% include_relative _includes/publications.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
