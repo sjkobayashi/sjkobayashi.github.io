@@ -17,7 +17,7 @@ canonical: https://shuntokobayashi.com
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=_tWe3CIAAAAJ
 # github_link: https://github.com/sjkobayashi
-linkedin: https://www.linkedin.com/in/shunto-kobayashi/
+# linkedin: https://www.linkedin.com/in/shunto-kobayashi/
 cv_link: assets/files/shunto-kobayashi-cv.pdf
 # twitter: https://twitter.com/
 
@@ -29,7 +29,7 @@ favicon_dark: ./assets/img/favicon.ico
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
