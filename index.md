@@ -8,7 +8,7 @@ I am a Ph.D. candidate in economics at California Institute of Technology with r
 
 My primary research agenda revolves around examining the economic and policy implications arising from the interplay of firms' strategic behavior, market mechanisms, and information structure. I have focused on the online advertising industry, which presents a rich landscape for my research due to its intricate market mechanism and reliance on online data for advertising.
 
-I will be on the Econ job market during the 2023-2024 academic year. 
+I will be on the economics job market during the 2023-2024 academic year. 
 - [[curriculum vitae]](assets/files/shunto-kobayashi-cv.pdf)
 - sjkobaya@caltech.edu
 
