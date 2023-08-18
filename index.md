@@ -13,17 +13,18 @@ I will be on the Econ job market during the 2023-2024 academic year.
 - sjkobaya@caltech.edu
 
 ## Job-Market Paper
-- Dynamic Inefficiency in Online Decentralized Advertising Auctions
+- <u>Dynamic Inefficiency in Online Decentralized Advertising Auctions<\u>
   <br>
   with Miguel Alcobendas (Yahoo), draft coming soon
+
 ## Working Papers
-- [The Impact of Privacy Measures on Online Advertising Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782889)
+- <u>[The Impact of Privacy Measures on Online Advertising Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782889)<\u>
    <br>
-   with Miguel Alcobendas (Yahoo) and Matthew Shum (Caltech), new draft coming soon
+   with M. Alcobendas (Yahoo) and M. Shum (Caltech), new draft coming soon
    - Accepted for presentation at EC'23 
-- Model-Agnostic Estimation of Non-Expected Utility Models
+- <u>Model-Agnostic Estimation of Non-Expected Utility Models</u>
    <br>
-   with Aldo Lucia (Caltech, his job-market paper), draft coming soon
+   with A. Lucia (Caltech, his job-market paper), draft coming soon
 
 ## Conference Presentations
 - 2023: North American Meeting of the Econometric Society (Los Angeles, presenter)
