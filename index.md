@@ -18,7 +18,7 @@ I will be on the Econ job market during the 2023-2024 academic year.
   with Miguel Alcobendas (Yahoo), draft coming soon
 
 ## Working Papers
-- <u>[The Impact of Privacy Measures on Online Advertising Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782889)</u>
+- [<u>The Impact of Privacy Measures on Online Advertising Markets</u>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782889)
    <br>
    with M. Alcobendas (Yahoo) and M. Shum (Caltech), new draft coming soon
    - Accepted for presentation at EC'23 
