@@ -14,7 +14,7 @@ My primary research agenda revolves around examining the economic and policy imp
 - Ph.D. Social Science (Economics), Caltech, 2024 (expected)
   - **Fields**: Empirical Industrial Organization, Econometrics, Applied Microeconomics
   - **Committee**: Matthew Shum, Thomas Palfrey, Yi Xin, Gabriel Lopez-Moctezuma 
-- M.S. Social Science, Caltech, 2019
+- M.S. Social Science (Economics), Caltech, 2019
 - B.S. Economics and Mathematics, *Valedictorian*, California State Polytechnic University, Pomona, 2018
 
 ## Job-Market Paper
