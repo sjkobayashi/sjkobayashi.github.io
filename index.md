@@ -10,15 +10,20 @@ I will be on the economics job market during the 2023-2024 academic year.
 - [[curriculum vitae]](assets/files/shunto-kobayashi-cv.pdf)
 - sjkobaya@caltech.edu
 
+## Education
+- Ph.D. Social Science (Economics), Caltech [2024 (expected)]{style="float:right"}
+- M.S. Social Science, Caltech [2019]{style="float:right"}
+- B.S. Economics and Mathematics, *Valedictorian*, California State Polytechnic University, Pomona [2018]{style="float:right"}
+
 ## Job-Market Paper
 - <u>Dynamic Inefficiency in Online Decentralized Advertising Auctions</u>
   <br>
   with Miguel Alcobendas (Yahoo), draft coming soon
 
 ## Working Papers
-- [<u>The Impact of Privacy Measures on Online Advertising Markets</u>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782889)
+- [<u>The Impact of Privacy Measures on Online Advertising Markets</u>](assets/files/impact-of-privacy-protection-october23.pdf)
    <br>
-   with M. Alcobendas (Yahoo) , K. Shi (Caltech), and M. Shum (Caltech), new draft coming soon
+   with M. Alcobendas (Yahoo) , K. Shi (Caltech), and M. Shum (Caltech), resubmitted (October 2023)
    - Presentation/extended-abstract at [EC'23: Proceedings of the 24th ACM Conference on Economics and Computation, 2023](https://dl.acm.org/doi/10.1145/3580507.3597712)
 - <u>Model-Agnostic Estimation of Non-Expected Utility Models</u>
    <br>
