@@ -3,13 +3,13 @@
 
 # Basic Information 
 title: Shunto J. Kobayashi
-position: Ph.D. Candidate
-affiliation: Division of the Humanities and Social Sciences, California Institute of Technology
+position: Ph.D. Candidate in Economics
+affiliation: California Institute of Technology
 email: sjkobaya@caltech.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: shunto kobayasi, shunto jerry kobayashi, sjkobayashi, skobayashi, empirical industrial organization, econometrics
+keywords: shunto kobayasi, shunto jerry kobayashi, sjkobayashi, skobayashi, caltech, empirical industrial organization, econometrics, applied microeconomics, job-market candidate
 description: Economics PhD candidate at Caltech. Research interests include Empirical Industrial Organization and Econometrics.
 canonical: https://shuntokobayashi.com
 
@@ -33,7 +33,7 @@ enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
