@@ -35,6 +35,8 @@ My primary research agenda revolves around examining the economic and policy imp
 - 2023: North American Meeting of the Econometric Society (Los Angeles, presenter)
 - 2022: International Industrial Organization Conference (Boston, presenter and discussant)
 
+<!-- ## References -->
+
 <!-- {% include_relative _includes/publications.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
