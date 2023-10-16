@@ -1,0 +1,12 @@
+main:
+
+  - title: "Dynamic Auctions with Budget-Constrained Bidders: Evidence from the Online Advertising Market"
+    authors: with Miguel Alcobendas (Yahoo)
+    abstract: >
+      When price discovery is necessary for time-sensitive goods, a common practice is to conduct an auction for each item sequentially, but dynamic incentives can lead to behavior distinct from static settings. In this paper, we provide a novel empirical analysis of a large-scale sequential market that employs auctions to allocate objects to firms with budget constraints, leveraging a unique proprietary dataset of the online advertising market. In this market, because of their short-run budget constraints, participants face a tradeoff between winning auctions immediately or holding out for later opportunities. This dynamic incentive prompts them to adjust their entry rates and bidding strategies accordingly. We develop and estimate a finite-horizon dynamic game between bidders with heterogeneous budgets facing a sequence of simultaneous auctions to quantify this incentive and analyze its implication in competition and auction design. We find that a substantial markdown occurs due to the dynamic incentives arising from budget constraints, and this markdown varies significantly among bidders with different budgets. Using the estimated structural model, we provide a counterfactual simulation comparing the first-price and second-price formats. Unlike the standard environment, we find that dynamics and heterogeneous budgets lead to a significant disparity in the welfare distributions under them. This highlights that that even a seemingly simple mechanism choice can have competitive implications in such a dynamic environment.
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    # pdf: assets/files/ex_pdf.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    notes: draft coming soon

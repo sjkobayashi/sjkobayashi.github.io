@@ -171,9 +171,8 @@ papertitle {
         border-radius: 0%;
         width: 100%;
         padding: 0px;
-        border: 1px solid #ddd;
-        // padding: 3px;
-        // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
+	border: 2px solid #fff; /* Optional: Add a white border */
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); /* Optional: Add a shadow effect */
       }
 
     #header .image.avatar {

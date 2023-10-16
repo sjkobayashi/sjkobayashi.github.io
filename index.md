@@ -17,23 +17,14 @@ My primary research agenda revolves around examining the economic and policy imp
 - M.S. Economics, Caltech, 2019
 - B.S. Economics and Mathematics, *Valedictorian*, California State Polytechnic University, Pomona, 2018
 
-## Job-Market Paper
-- <u>Dynamic Inefficiency in Online Decentralized Advertising Auctions</u>
-  <br>
-  with Miguel Alcobendas (Yahoo), draft coming soon
+{% include_relative _includes/jmp.md %}
 
-## Working Papers
-- [<u>The Impact of Privacy Measures on Online Advertising Markets</u>](assets/files/impact-of-privacy-protection-october23.pdf)
-   <br>
-   with M. Alcobendas (Yahoo) , K. Shi (Caltech), and M. Shum (Caltech), resubmitted (October 2023)
-   - Accepted for presentation/extended-abstract at [EC'23: ACM Conference on Economics and Computation, 2023](https://dl.acm.org/doi/10.1145/3580507.3597712)
-- <u>Robust Estimation of Risk Preferences</u>
-   <br>
-   with A. Lucia (Caltech, his job-market paper), draft coming soon
+{% include_relative _includes/workingpapers.md %}
 
 ## Conference Presentations
 - 2023: North American Meeting of the Econometric Society (Los Angeles, presenter)
 - 2022: International Industrial Organization Conference (Boston, presenter and discussant)
+
 
 <!-- ## References -->
 

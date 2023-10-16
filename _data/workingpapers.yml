@@ -1,87 +1,22 @@
 main:
 
   - title: The Impact of Privacy Protection on Online Advertising Markets
-    authors: Miguel Alcobendas, Shunto Kobayashi, Ke Shi, Matthew Shum
-    periodical: "EC '23: Proceedings of the 24th ACM Conference on Economics and Computation"
+    authors: with Miguel Alcobendas (Yahoo), Ke Shi (Caltech), Matthew Shum (Caltech)
+    periodical: "Accepted for presentation at EC '23: ACM Conference on Economics and Computation"
     abstract: >
-      Online privacy protection has gained momentum in recent years and spurred both government 
-      regulations and private-sector initiatives. A centerpiece of this movement is the removal 
-      of third-party cookies, which are widely employed to track online user behavior and implement 
-      targeted ads, from web browsers. Using banner ad auction data from Yahoo, we study the effect 
-      of a third-party cookie ban on the online advertising market. We first document stylized facts 
-      about the value of third-party cookies to advertisers. Adopting a structural approach to recover 
-      advertisers' valuations from their bids in these auctions, we simulate a few counterfactual 
-      scenarios to quantify the impact of Google's plan to phase out third-party cookies from Chrome, 
-      its market-leading browser. Our counterfactual analysis suggests that an outright ban would 
-      reduce publisher revenue by 54% and advertiser surplus by 40%. The introduction of alternative 
-      tracking technologies under Google's Privacy Sandbox initiative would recoup part of the loss. 
-      In either case, we find that big tech firms can leverage their informational advantage over their 
-      competitors and gain a larger surplus from the ban.
+      Online privacy protection has gained momentum in recent years and spurred both government regulations and private-sector initiatives. A centerpiece of this movement is the removal of third-party cookies, which are widely employed to track online user behavior and implement targeted ads, from web browsers. Using banner ad auction data from Yahoo, we study the effect of a third-party cookie ban on the online advertising market. We first document stylized facts about the value of third-party cookies to advertisers. Adopting a structural approach to recover advertisers' valuations from their bids in these auctions, we simulate a few counterfactual scenarios to quantify the impact of Google's plan to phase out third-party cookies from Chrome, its market-leading browser. Our counterfactual analysis suggests that an outright ban would reduce publisher revenue by 54% and advertiser surplus by 40%. The introduction of alternative tracking technologies under Google's Privacy Sandbox initiative would recoup part of the loss. In either case, we find that big tech firms can leverage their informational advantage over their competitors and gain a larger surplus from the ban.
     pdf: assets/files/AlcobendasKobayashiShiShum_privacy.pdf
     ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782889
     acm: https://dl.acm.org/doi/10.1145/3580507.3597712
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
-    notes: submitted
+    notes: resubmitted (October 2023)
 
-  - title: Buying Public Offices, Bureaucratic Diversity, and Economic Development
-    authors: Ke Shi
+  - title: "Robust Estimation of Risk Preferences"
+    authors: with Aldo Lucia (Caltech, his JMP)
     abstract: >
-      I show that socioeconomic diversity in the government could contribute to the development of 
-      private enterprises. I study the institution of selling public offices during late imperial 
-      Qing and show that it had a positive impact on early industrialization in China. In 
-      traditional Chinese society, merchants had relatively low social status and their businesses 
-      were frequently subject to government extortion and appropriation. By taking advantage of 
-      the office-selling program, the merchants were able to gain increased representation within 
-      the imperial bureaucracy. This, in turn, had a positive spillover effect on the private 
-      sector and early industrialization. I argue that changes in bureaucratic composition did 
-      not necessarily enhance the institutional environment for businesses. Instead, a more 
-      plausible mechanism is that purchasing officials had more progressive ideologies, preferences, 
-      and relationships with business interests, ultimately reducing the occurrences of arbitrary 
-      government interference and extortion.
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: assets/files/Shi_buying_offices.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: draft available upon request
-
-  - title: "Venture Capital: A Tale of Three Networks"
-    authors: Ke Shi
-    abstract: >
-      I present a structural estimation of the impact of venture capital (VC) networks on 
-      performances, as measured by the proportion of successful portfolio exits. VCs face high 
-      degrees of risk and uncertainty, and networks through coinvestments prove to be a solution 
-      through the exchange and flow of information. Given this mechanism, I build a parsimonious 
-      equilibrium model that bridges the gap between networks and performance with a micro-foundation. 
-      To alleviate the endogeneity concerns in this model, I take two approaches. First, I 
-      exploit exogenous variations in VC partners' past connections through professional and 
-      alumni networks and adopt a Heckman procedure to correct for selection biases. Second, 
-      I enrich the model with an endogenous network formation stage that allows VCs to optimally 
-      choose their coinvestors. The latter approach also shines a light on the structure of 
-      the unobserved, underlying social networks that operate in parallel to the coinvestment 
-      networks. My results suggest that both networks have a significant and positive impact on 
-      VC performances. 
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: assets/files/Shi_vc_networks.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
-    # notes: draft available upon request
-
-  - title: "Self-Control in Online Credit Markets"
-    authors: Ke Shi, Yi Xin
-    abstract: >
-      We examine the impact of commitment devices in consumer credit markets, focusing on 
-      a large peer-to-peer (P2P) lending platform's introduction of a "direct-pay" disbursement option in 2018. This alternative 
-      is designed to screen borrowers and mitigate self-control problems by transferring the 
-      loaned amount to the borrower's creditors directly and reducing impulsive spending opportunities. 
-      We find that direct-pay borrowers exhibited lower default rates compared to cash borrowers, 
-      suggesting success in attracting responsible borrowers and addressing self-control problems. 
-      We next develop and estimate a structural model to identify borrower type distributions 
-      and consumption probability. Counterfactual simulations consider market scenarios with 
-      no self-control issues and optimized discount menus for maximum welfare improvement.
+      Economic models estimated from experimental data have been questioned for their out-of-sample performance and relevance outside of lab settings. We investigate and address this issue by running a novel experiment and proposing a flexible model of non-Expected Utility behaviors. Our experiment examines two classical behaviors inconsistent with Expected Utility (EU): the common ratio effect and preferences for randomization. Unlike previous studies that tested these behaviors individually, our experiment considered them together, allowing us to observe their correlation within each subject. We document shortcomings of leading economic models, such as Cumulative Prospect Theory (CPT), in rationalizing both of these two behaviors. Motivated by this observation, we introduce a novel structural approach called the EU-Core model that enable us to predict behavior under risk without leaning on specific decision models. We further demonstrate that this method offers more accurate out-of-sample predictions about behaviors under risk than leading economic models and machine learning algorithms. Furthermore, we find that compared to CPT, the EU-Core model does also better in correlating within-experiment behaviors with outside-of-experiment behaviors, such as investing in traditional assets and cryptocurrency.
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     # pdf: assets/files/ex_pdf.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
