@@ -516,3 +516,12 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+.collapsible {
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  line-height: 1.25;
+  padding-top: 2px;
+}
