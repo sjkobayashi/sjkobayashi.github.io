@@ -11,10 +11,10 @@ My primary research agenda revolves around examining the economic and policy imp
 - sjkobaya@caltech.edu
 
 ## Education
-- Ph.D. Social Science (Economics), Caltech, 2024 (expected)
+- Ph.D. Economics, Caltech, 2024 (expected)
   - **Fields**: Empirical Industrial Organization, Econometrics, Applied Microeconomics
   - **Committee**: Matthew Shum, Thomas Palfrey, Yi Xin, Gabriel Lopez-Moctezuma 
-- M.S. Social Science (Economics), Caltech, 2019
+- M.S. Economics, Caltech, 2019
 - B.S. Economics and Mathematics, *Valedictorian*, California State Polytechnic University, Pomona, 2018
 
 ## Job-Market Paper
