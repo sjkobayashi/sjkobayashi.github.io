@@ -37,7 +37,6 @@ My primary research agenda revolves around examining the economic and policy imp
 
 <!-- ## References -->
 
-
 <!-- {% include_relative _includes/publications.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
