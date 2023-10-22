@@ -14,7 +14,7 @@ main:
     notes: resubmitted (October 2023)
 
   - title: "Robust Estimation of Risk Preferences"
-    authors: with Aldo Lucia (Caltech, his JMP)
+    authors: with <a href="https://www.aldolucia.com/">Aldo Lucia</a> (Caltech, his JMP)
     abstract: >
       Economic models estimated from experimental data have been questioned for their out-of-sample performance and relevance outside of lab settings. We investigate and address this issue by running a novel experiment and proposing a flexible model of non-Expected Utility behaviors. Our experiment examines two classical behaviors inconsistent with Expected Utility (EU): the common ratio effect and preferences for randomization. Unlike previous studies that tested these behaviors individually, our experiment considered them together, allowing us to observe their correlation within each subject. We document shortcomings of leading economic models, such as Cumulative Prospect Theory (CPT), in rationalizing both of these two behaviors. Motivated by this observation, we introduce a novel structural approach called the EU-Core model that enable us to predict behavior under risk without leaning on specific decision models. We further demonstrate that this method offers more accurate out-of-sample predictions about behaviors under risk than leading economic models and machine learning algorithms. Furthermore, we find that compared to CPT, the EU-Core model does also better in correlating within-experiment behaviors with outside-of-experiment behaviors, such as investing in traditional assets and cryptocurrency.
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
