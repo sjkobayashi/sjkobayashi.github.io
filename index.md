@@ -4,11 +4,13 @@ layout: homepage
 
 I am a Ph.D. candidate in Economics at California Institute of Technology with research interests in **Empirical Industrial Organization** and **Econometrics**. 
 
-My primary research agenda revolves around examining the economic and policy implications arising from the interplay of firms' strategic behavior, market mechanisms, and information structure. I have focused on the online advertising industry, which presents a rich landscape for my research due to its intricate market mechanism and reliance on online data for advertising.
+My main research agenda examines the interplay of firms' strategic behaviors with market mechanisms and information structure, especially within digital markets. I have focused on the online advertising industry, which presents a rich landscape for my research due to its intricate market mechanism and reliance on online data for advertising. 
+
+I am also interested in analyzing consumer behavior by integrating economic experiments with structural econometric methods to account for deviations from classical economic models.
 
 **I'm on the economics job market during the 2023-2024 academic year.** 
 - [[curriculum vitae]](assets/files/shunto-kobayashi-cv.pdf)
-- sjkobaya@caltech.edu
+- <sjkobaya@caltech.edu>
 
 ## Education
 - Ph.D. Economics, Caltech, 2024 (expected)
@@ -25,9 +27,11 @@ My primary research agenda revolves around examining the economic and policy imp
 - 2023: North American Meeting of the Econometric Society (Los Angeles, presenter)
 - 2022: International Industrial Organization Conference (Boston, presenter and discussant)
 
-
-<!-- ## References -->
-
+## References
+- Matthew Shum (<mshum@caltech.edu>), William D. Hacker Professor of Economics
+- Thomas Palfrey (<trp@hss.caltech.edu>), Flintridge Foundation Prof. of Economics and Political Science
+- Yi Xin (<yixin@caltech.edu>), Assistant Professor of Economics
+- Gabriel Lopez-Moctezuma (<glmoctezuma@caltech.edu>),  Assistant Professor of Political Science
 
 <!-- {% include_relative _includes/publications.md %} -->
 
