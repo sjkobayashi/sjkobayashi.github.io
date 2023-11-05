@@ -33,7 +33,6 @@ I am also interested in analyzing consumer behavior by integrating economic expe
 - Yi Xin (<yixin@caltech.edu>), Assistant Professor of Economics
 - Gabriel Lopez-Moctezuma (<glmoctezuma@caltech.edu>),  Assistant Professor of Political Science
 
-
 <!-- {% include_relative _includes/publications.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
