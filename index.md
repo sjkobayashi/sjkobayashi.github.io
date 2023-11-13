@@ -4,7 +4,7 @@ layout: homepage
 
 I am a Ph.D. candidate in Economics at California Institute of Technology with research interests in **Empirical Industrial Organization** and **Econometrics**. 
 
-My main research agenda examines the interplay of firms' strategic behaviors with market mechanisms and information structure, especially within digital markets. I have focused on the online advertising industry, which presents a rich landscape for my research due to its intricate market mechanism and reliance on online data for advertising. 
+My main research agenda examines the interplay of firms' strategic behaviors with market mechanisms and information structures, especially within digital markets. I have focused on the online advertising industry, which presents a rich landscape for my research due to its intricate market mechanism and reliance on online data for advertising. 
 
 I am also interested in analyzing consumer behavior by integrating economic experiments with structural econometric methods to account for deviations from classical economic models.
 
