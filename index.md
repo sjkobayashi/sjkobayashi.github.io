@@ -8,7 +8,7 @@ My main research agenda examines the interplay of firms' strategic behaviors wit
 
 I am also interested in analyzing consumer behavior by integrating economic experiments with structural econometric methods to account for deviations from classical economic models.
 
-**I'm on the economics job market during the 2023-2024 academic year.** 
+**I will be joining Boston University (Questrom) as an Assistant Professor of Marketing in Fall 2024.** 
 - [[curriculum vitae]](assets/files/shunto-kobayashi-cv.pdf)
 - <sjkobaya@caltech.edu>
 
