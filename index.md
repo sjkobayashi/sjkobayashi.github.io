@@ -2,19 +2,17 @@
 layout: homepage
 ---
 
-I am a Ph.D. candidate in Economics at California Institute of Technology with research interests in **Empirical Industrial Organization** and **Econometrics**. 
+I am an Assistant Professor of Marketing at Boston University with research interests in **Quantitative Marketing**, **Empirical Industrial Organization**, and **Econometrics**. 
 
 My main research agenda examines the effects of market mechanisms and information structures on firms' strategic behaviors, especially within digital markets. I have focused on the online advertising industry, which presents a rich landscape for my research due to its unique market mechanism and reliance on online data for advertising. 
 
 I am also interested in analyzing consumer behavior by integrating economic experiments with structural econometric methods to account for deviations from classical economic models.
 
-**I will be joining Boston University (Questrom) as an Assistant Professor of Marketing in Fall 2024.** 
 - [[curriculum vitae]](assets/files/shunto-kobayashi-cv.pdf)
-- <sjkobaya@caltech.edu>
+- <sjkobaya@bu.edu>
 
 ## Education
-- Ph.D. Economics, Caltech, 2024 (expected)
-  - **Fields**: Industrial Organization, Econometrics, Applied Microeconomics
+- Ph.D. Economics, Caltech, 2024
   - **Committee**: Matthew Shum, Thomas Palfrey, Yi Xin, Gabriel Lopez-Moctezuma 
 - M.S. Economics, Caltech, 2019
 - B.S. Economics and Mathematics, *Valedictorian*, California State Polytechnic University, Pomona, 2018
@@ -24,15 +22,15 @@ I am also interested in analyzing consumer behavior by integrating economic expe
 {% include_relative _includes/workingpapers.md %}
 
 ## Conference Presentations
-- [2024:](assets/files/shunto-kobayashi-iioc.pdf)
-- 2023: North American Meeting of the Econometric Society (Los Angeles, presenter)
-- 2022: International Industrial Organization Conference (Boston, presenter and discussant)
+- 2024: UCSD (econ), SciencesPo (econ), BU Questrom (marketing), IIOC (Boston), DSE2024 (Madison), UToronto (econ, scheduled)
+- 2023: North American Summer Meeting of the Econometric Society (Los Angeles)
+- 2022: International Industrial Organization Conference (Boston), National Taiwan University (econ)
 
-## References
-- Matthew Shum (<mshum@caltech.edu>), William D. Hacker Professor of Economics
-- Thomas Palfrey (<trp@hss.caltech.edu>), Flintridge Foundation Prof. of Economics and Political Science
-- Yi Xin (<yixin@caltech.edu>), Assistant Professor of Economics
-- Gabriel Lopez-Moctezuma (<glmoctezuma@caltech.edu>),  Assistant Professor of Political Science
+<!-- ## References -->
+<!-- - Matthew Shum (<mshum@caltech.edu>), William D. Hacker Professor of Economics -->
+<!-- - Thomas Palfrey (<trp@hss.caltech.edu>), Flintridge Foundation Prof. of Economics and Political Science -->
+<!-- - Yi Xin (<yixin@caltech.edu>), Assistant Professor of Economics -->
+<!-- - Gabriel Lopez-Moctezuma (<glmoctezuma@caltech.edu>),  Assistant Professor of Political Science -->
 
 <!-- {% include_relative _includes/publications.md %} -->
 
