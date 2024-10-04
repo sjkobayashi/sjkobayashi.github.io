@@ -22,7 +22,8 @@ I am also interested in analyzing consumer behavior by integrating economic expe
 {% include_relative _includes/workingpapers.md %}
 
 ## Conference Presentations
-- 2024: UCSD (econ), SciencesPo (econ), BU Questrom (marketing), IIOC (Boston), DSE2024 (Madison), UToronto (econ, scheduled)
+- 2025: ASSA (scheduled)
+- 2024: UCSD (econ), SciencesPo (econ), BU Questrom (marketing), IIOC (Boston), DSE (Madison), QME (Stanford), NBER Market Design (Stanford, scheduled), UToronto (econ, scheduled)
 - 2023: North American Summer Meeting of the Econometric Society (Los Angeles)
 - 2022: International Industrial Organization Conference (Boston), National Taiwan University (econ)
 

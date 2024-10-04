@@ -22,4 +22,15 @@ main:
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
-    # notes: 
+    # notes:
+
+  - title: "Privacy-Enhanced versus Traditional Retargeting: Ad Effectiveness in an Industry-Wide Field Experiment"
+    authors: with <a href="https://www.garjoh.com/">Garrett A. Johnson</a> (BU Questrom) and Zhengrong Gu (BU Questrom)
+    abstract: >
+      An advertiser can use retargeting to target its site visitors with ads offsite, often to push users to complete a purchase. Retargeting is controversial because it raises both user privacy concerns and questions about its effectiveness for advertisers. In this study, we partner with an advertiser intermediary to measure retargeting effectiveness across more than 2,000 advertisers, leveraging an industry-wide experiment to evaluate both traditional and privacyenhanced retargeting approaches. Google's Privacy Sandbox allows advertisers to retarget users without tracking cross-site browsing by moving ad selling onto the user's device. We provide broad-based evidence that retargeting lifts advertisers' baseline conversions by 4.6%. While removing third-party cookies significantly reduces ad clicks and click-through conversions, implementing Privacy Sandbox recovers 46.3% of lost ad clicks, and 43.5% of lost clickthrough conversions. Importantly, when adjusting for ad expenditure, the performance gap between privacy-enhanced and traditional retargeting narrows: Sandbox's click per dollar and click-through conversion per dollar achieve 86.4% and 81.8% of traditional counterparts, respectively. We provide additional evidence exploring time heterogeneity and advertiser heterogeneity in treatment effects, suggesting that the limited overall performance of Privacy Sandbox may be due to the lack of supply-side adoption of Privacy Sandbox.
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    # pdf: https://www.dropbox.com/scl/fi/oa78tjw7gdcugii1jg02c/JMP_AldoLucia.pdf?rlkey=hx985pcptf9o5wux4ujalssxq&raw=1
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes:
