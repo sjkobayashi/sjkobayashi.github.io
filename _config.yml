@@ -24,8 +24,8 @@ cv_link: assets/files/shunto-kobayashi-cv.pdf
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.jpg
-favicon: ./assets/img/favicon.ico
-favicon_dark: ./assets/img/favicon.ico
+favicon: ./assets/img/favicon.jpg
+favicon_dark: ./assets/img/favicon.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
