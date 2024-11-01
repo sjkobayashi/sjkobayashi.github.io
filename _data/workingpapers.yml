@@ -13,8 +13,19 @@ main:
     # image: ./assets/img/teaser_example_2.png
     notes: Revise and Resubmit at the Review of Economic Studies
 
+  - title: "Dynamic Auctions with Budget-Constrained Bidders: Evidence from the Online Advertising Market"
+    authors: with Miguel Alcobendas (Yahoo)
+    abstract: >
+      When price discovery is necessary for time-sensitive goods, a common practice is to conduct an auction for each item sequentially, but dynamic incentives can lead to behavior distinct from static settings. We provide a novel empirical analysis of a large-scale sequential market that employs auctions to allocate objects to firms with budget constraints, leveraging a unique proprietary dataset of the online advertising market. In this market, because of their short-run budget constraints, participants face a tradeoff between winning auctions immediately or holding out for later opportunities. This dynamic incentive prompts them to adjust their entry rates and bidding strategies accordingly. We develop and estimate a finite-horizon dynamic game between bidders with heterogeneous budgets facing a sequence of simultaneous auctions to quantify this incentive and analyze its implication in competition and auction design. We find that a substantial markdown occurs due to the dynamic incentives arising from budget constraints, and this markdown varies significantly among bidders with different budgets. Using the estimated structural model, we provide a counterfactual simulation comparing the first-price and second-price formats. Unlike the standard environment, we find that dynamics and heterogeneous budgets lead to a significant disparity in the welfare distributions under them. This highlights that even a seemingly simple mechanism choice can have competitive implications in such a dynamic environment.
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: assets/files/shunto-kobayashi-jmp.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: draft coming soon
+
   - title: "Robust Estimation of Risk Preferences"
-    authors: with <a href="https://www.aldolucia.com/">Aldo Lucia</a> (Caltech, his JMP)
+    authors: with <a href="https://www.aldolucia.com/">Aldo Lucia</a> (Caltech)
     abstract: >
       Economic models have been successful at rationalizing specific empirical findings, but their ability to concurrently explain multiple behaviors remains limited. In this paper, we illustrate this issue by conducting an experiment with 500 participants that studies two classical behaviors inconsistent with Expected Utility: the common ratio effect and preferences for randomization. The lack of generalizability of leading economic models across these two behaviors calls for the development of new empirical strategies to make predictions. Motivated by this observation, we introduce a novel empirical approach that enables us to predict behavior under risk without leaning on specific decision models. We further demonstrate that this method offers more accurate out-of-sample predictions about behaviors under risk, both inside and outside laboratory settings, than leading economic models and machine learning algorithms.
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
@@ -30,7 +41,8 @@ main:
       An advertiser can use retargeting to target its site visitors with ads offsite, often to push users to complete a purchase. Retargeting is controversial because it raises both user privacy concerns and questions about its effectiveness for advertisers. In this study, we partner with an advertiser intermediary to measure retargeting effectiveness across more than 2,000 advertisers, leveraging an industry-wide experiment to evaluate both traditional and privacyenhanced retargeting approaches. Google's Privacy Sandbox allows advertisers to retarget users without tracking cross-site browsing by moving ad selling onto the user's device. We provide broad-based evidence that retargeting lifts advertisers' baseline conversions by 4.6%. While removing third-party cookies significantly reduces ad clicks and click-through conversions, implementing Privacy Sandbox recovers 46.3% of lost ad clicks, and 43.5% of lost clickthrough conversions. Importantly, when adjusting for ad expenditure, the performance gap between privacy-enhanced and traditional retargeting narrows: Sandbox's click per dollar and click-through conversion per dollar achieve 86.4% and 81.8% of traditional counterparts, respectively. We provide additional evidence exploring time heterogeneity and advertiser heterogeneity in treatment effects, suggesting that the limited overall performance of Privacy Sandbox may be due to the lack of supply-side adoption of Privacy Sandbox.
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     # pdf: https://www.dropbox.com/scl/fi/oa78tjw7gdcugii1jg02c/JMP_AldoLucia.pdf?rlkey=hx985pcptf9o5wux4ujalssxq&raw=1
+    ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4972368
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
-    # notes:
+    notes: "Coverage: [Mobile Dev Memo podcast](https://mobiledevmemo.com/podcast-what-is-advertising-incrementality-with-garrett-johnson/), [The Monopoly Report](https://monopoly.marketecture.tv/p/thinking-about-remedies-for-google), [AdTechRadar](https://adtechradar.com/2024/10/04/tweet-of-the-week-is-retargeting-worth-it-aram-zucker-scharff-weighs-in/), [AdExchanger](https://www.adexchanger.com/privacy/paapi-could-be-as-effective-for-retargeting-as-third-parties-cookies-study-finds/)"

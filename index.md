@@ -13,17 +13,14 @@ I am also interested in analyzing consumer behavior by integrating economic expe
 
 ## Education
 - Ph.D. Economics, Caltech, 2024
-  - **Committee**: Matthew Shum, Thomas Palfrey, Yi Xin, Gabriel Lopez-Moctezuma 
 - M.S. Economics, Caltech, 2019
-- B.S. Economics and Mathematics, *Valedictorian*, California State Polytechnic University, Pomona, 2018
-
-{% include_relative _includes/jmp.md %}
+- B.S. Economics and Mathematics, Cal Poly Pomona, 2018
 
 {% include_relative _includes/workingpapers.md %}
 
 ## Conference Presentations
 - 2025: ASSA (scheduled)
-- 2024: UCSD (econ), SciencesPo (econ), BU Questrom (marketing), IIOC (Boston), DSE (Madison), QME (Stanford), NBER Market Design (Stanford, scheduled), UToronto (econ, scheduled)
+- 2024: UCSD (econ), SciencesPo (econ), BU Questrom (marketing), IIOC (Boston), DSE (Madison), QME (Stanford), NBER Market Design (Stanford), UToronto (econ, scheduled), MarkTech (CBS, scheduled)
 - 2023: North American Summer Meeting of the Econometric Society (Los Angeles)
 - 2022: International Industrial Organization Conference (Boston), National Taiwan University (econ)
 

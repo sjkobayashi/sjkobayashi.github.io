@@ -1,5 +1,12 @@
 <h2 id="workingpapers" style="margin: 2px 0px -15px;">Working Papers</h2>
 
+<style>
+  .pub-row .notes i > p {
+    display: inline; /* Ensure inline display of markdown content */
+    margin: 0;       /* Remove any default paragraph margin */
+  }
+</style>
+
 <div class="publications">
 <ol class="bibliography">
 
@@ -19,7 +26,7 @@
     <div class="title">{{ link.title }}</div>
     <div class="author">{{ link.authors }}</div>
     <div class="periodical"><i>{{ link.periodical }}</i></div>
-    <div class="notes"><i>{{ link.notes }}</i></div>
+    <div class="notes"><i>{{ link.notes | markdownify }}</i></div>
     <div class="links">
       {% if link.abstract %} 
       <button class="btn btn-sm btn-bd-primary" type="button" id="toggleButton{{ forloop.index }}">
