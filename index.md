@@ -2,11 +2,9 @@
 layout: homepage
 ---
 
-I am an Assistant Professor of Marketing at Boston University with research interests in **Quantitative Marketing**, **Empirical Industrial Organization**, and **Econometrics**. 
+I am an Assistant Professor of Marketing at Boston University's Questrom School of Business and an Affiliated Faculty member in the Economics Department. 
 
-My main research agenda examines the effects of market mechanisms and information structures on firms' strategic behaviors, especially within digital markets. I have focused on the online advertising industry, which presents a rich landscape for my research due to its unique market mechanism and reliance on online data for advertising. 
-
-I am also interested in analyzing consumer behavior by integrating economic experiments with structural econometric methods to account for deviations from classical economic models.
+My research interests lie in **Empirical Industrial Organization** and **Quantitative Marketing**, with a focus on economic and privacy issues in online advertising and digital platforms. I use a combination of structural and causal inference methods to study these topics.
 
 - [[curriculum vitae]](assets/files/shunto-kobayashi-cv.pdf)
 - <sjkobaya@bu.edu>
@@ -14,15 +12,18 @@ I am also interested in analyzing consumer behavior by integrating economic expe
 ## Education
 - Ph.D. Economics, Caltech, 2024
 - M.S. Economics, Caltech, 2019
-- B.S. Economics and Mathematics, Cal Poly Pomona, 2018
+- B.S. Economics and Mathematics, *Valedictorian*, Cal Poly Pomona, 2018
 
 {% include_relative _includes/workingpapers.md %}
 
 ## Conference Presentations
-- 2025: ASSA (scheduled), Data Blitz (BostonU), UTD FORMS (scheduled), Kochi IO Workshop (scheduled)
-- 2024: UCSD (econ), SciencesPo (econ), BostonU Questrom (marketing), SoCal Structural Econometrics Conference (Caltech), IIOC (Boston), DSE (Madison), QME (Stanford), NBER Market Design (Stanford), UToronto (econ), MarkTech (CBS, scheduled)
+- 2025: ASSA (SF), Data Blitz (BostonU), Bass FORMS (UTDallas), Japan IO Workshop, Conference on Digital Economics (Telecom Paris), EMAC (Madrid), Google Ads Privacy Conference (Mountain View), ISMS (Washington, DC), Workshop on the Economics of Advertising and Marketing (Tallinn, Estonia) 
+- 2024: UCSD (econ), SciencesPo (econ), BostonU Questrom (marketing), SoCal Structural Econometrics Conference (Caltech), IIOC (Boston), DSE (Madison), QME (Stanford), NBER Market Design (Stanford), UToronto (econ), MarkTech (Columbia Business School)
 - 2023: North American Summer Meeting of the Econometric Society (Los Angeles)
 - 2022: International Industrial Organization Conference (Boston), National Taiwan University (econ)
+
+## Teaching
+- BA472: Business Experiments and Causal Methods
 
 <!-- ## References -->
 <!-- - Matthew Shum (<mshum@caltech.edu>), William D. Hacker Professor of Economics -->

@@ -1,8 +1,8 @@
 main:
 
-  - title: The Impact of Privacy Protection on Online Advertising Markets
+  - title: "The Impact of Privacy Protection on Online Advertising Markets"
     authors: with Miguel Alcobendas (Yahoo), Ke Shi (Caltech), Matthew Shum (Caltech)
-    periodical: "Accepted for presentation at EC '23"
+    periodical: "Accepted for the ACM Conference on Economics and Computation (EC'23)"
     abstract: >
       Online privacy protection has gained momentum in recent years and spurred both government regulations and private-sector initiatives. A centerpiece of this movement is the removal of third-party cookies, which are widely employed to track online user behavior and implement targeted ads, from web browsers. Using banner ad auction data from Yahoo, we study the effect of a third-party cookie ban on the online advertising market. We first document stylized facts about the value of third-party cookies to advertisers. Adopting a structural approach to recover advertisers' valuations from their bids in these auctions, we simulate a few counterfactual scenarios to quantify the impact of Google's plan to phase out third-party cookies from Chrome, its market-leading browser. Our counterfactual analysis suggests that an outright ban would reduce publisher revenue by 54% and advertiser surplus by 40%. The introduction of alternative tracking technologies under Google's Privacy Sandbox initiative would recoup part of the loss. In either case, we find that big tech firms can leverage their informational advantage over their competitors and gain a larger surplus from the ban.
     pdf: assets/files/AlcobendasKobayashiShiShum-privacy.pdf
@@ -46,3 +46,15 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
     notes: "Coverage: [Mobile Dev Memo podcast](https://mobiledevmemo.com/podcast-what-is-advertising-incrementality-with-garrett-johnson/), [The Monopoly Report](https://monopoly.marketecture.tv/p/thinking-about-remedies-for-google), [AdTechRadar](https://adtechradar.com/2024/10/04/tweet-of-the-week-is-retargeting-worth-it-aram-zucker-scharff-weighs-in/), [AdExchanger](https://www.adexchanger.com/privacy/paapi-could-be-as-effective-for-retargeting-as-third-parties-cookies-study-finds/)"
+
+  - title: "Can Privacy Technologies Replace Cookies? Ad Revenue in a Field Experiment"
+    authors: with <a href="https://www.garjoh.com/">Garrett A. Johnson</a> (BU Questrom) and Zhengrong Gu (BU Questrom)
+    abstract: >
+      As regulators seek to balance user privacy with publisher sustainability, Google's Privacy Sandbox offers a potential replacement for third-party cookies. This paper presents the first independent estimates of the publisher-side economic effects of Privacy Sandbox, a suite of privacy-enhancing technologies for online advertising. Leveraging an open, industry-wide field experiment, we partner with a major ad management firm to evaluate over 200 million ad impressions across more than 5,000 publishers. We find that removing third-party cookies reduces publisher revenue by 29.1%, while Privacy Sandbox preserves just 4.2% of this lost revenue. We further document that Privacy Sandbox increases ad latency and reduces impression delivery by 2.9%. The results underscore the continued economic tension between privacy and the funding of online content.
+    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    # pdf: https://www.dropbox.com/scl/fi/oa78tjw7gdcugii1jg02c/JMP_AldoLucia.pdf?rlkey=hx985pcptf9o5wux4ujalssxq&raw=1
+    ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5284526
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    notes: "Coverage: [AdExchanger](https://www.adexchanger.com/data-privacy-roundup/no-shade-but-does-anyone-still-care-about-the-privacy-sandbox/)"
