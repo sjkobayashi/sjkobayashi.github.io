@@ -33,7 +33,7 @@ main:
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
-    # notes:
+    notes: Reject and Resubmit at Econometrica
 
   - title: "Privacy-Enhanced versus Traditional Retargeting: Ad Effectiveness in an Industry-Wide Field Experiment"
     authors: with <a href="https://www.garjoh.com/">Garrett A. Johnson</a> (BU Questrom) and Zhengrong Gu (BU Questrom)
