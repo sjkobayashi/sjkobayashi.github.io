@@ -5,7 +5,7 @@ main:
     periodical: "Accepted for the ACM Conference on Economics and Computation (EC'23)"
     abstract: >
       Online privacy protection has gained momentum in recent years and spurred both government regulations and private-sector initiatives. A centerpiece of this movement is the removal of third-party cookies, which are widely employed to track online user behavior and implement targeted ads, from web browsers. Using banner ad auction data from Yahoo, we study the effect of a third-party cookie ban on the online advertising market. We first document stylized facts about the value of third-party cookies to advertisers. Adopting a structural approach to recover advertisers' valuations from their bids in these auctions, we simulate a few counterfactual scenarios to quantify the impact of Google's plan to phase out third-party cookies from Chrome, its market-leading browser. Our counterfactual analysis suggests that an outright ban would reduce publisher revenue by 54% and advertiser surplus by 40%. The introduction of alternative tracking technologies under Google's Privacy Sandbox initiative would recoup part of the loss. In either case, we find that big tech firms can leverage their informational advantage over their competitors and gain a larger surplus from the ban.
-    pdf: assets/files/AlcobendasKobayashiShiShum-privacy.pdf
+    # pdf: assets/files/AlcobendasKobayashiShiShum-privacy.pdf
     ssrn: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782889
     acm: https://dl.acm.org/doi/10.1145/3580507.3597712
     # code: https://github.com/MrGiovanni/ContinualLearning
