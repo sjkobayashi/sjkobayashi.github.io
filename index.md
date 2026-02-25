@@ -9,6 +9,7 @@ My research interests lie in **Empirical Industrial Organization** and **Quantit
 - [[curriculum vitae]](assets/files/shunto-kobayashi-cv.pdf)
 - <sjkobaya@bu.edu>
 
+
 ## Education
 - Ph.D. Economics, Caltech, 2024
 - M.S. Economics, Caltech, 2019
