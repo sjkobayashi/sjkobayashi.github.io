@@ -2,7 +2,7 @@ main:
 
   - title: "The Impact of Privacy Protection on Online Advertising Markets"
     authors: with Miguel Alcobendas (Yahoo), Ke Shi (Caltech), Matthew Shum (Caltech)
-    periodical: "Accepted for the ACM Conference on Economics and Computation (EC'23)"
+    periodical: "Accepted at the Review of Economic Studies (February, 2026) and the ACM EC'23"
     abstract: >
       Online privacy protection has gained momentum in recent years and spurred both government regulations and private-sector initiatives. A centerpiece of this movement is the removal of third-party cookies, which are widely employed to track online user behavior and implement targeted ads, from web browsers. Using banner ad auction data from Yahoo, we study the effect of a third-party cookie ban on the online advertising market. We first document stylized facts about the value of third-party cookies to advertisers. Adopting a structural approach to recover advertisers' valuations from their bids in these auctions, we simulate a few counterfactual scenarios to quantify the impact of Google's plan to phase out third-party cookies from Chrome, its market-leading browser. Our counterfactual analysis suggests that an outright ban would reduce publisher revenue by 54% and advertiser surplus by 40%. The introduction of alternative tracking technologies under Google's Privacy Sandbox initiative would recoup part of the loss. In either case, we find that big tech firms can leverage their informational advantage over their competitors and gain a larger surplus from the ban.
     # pdf: assets/files/AlcobendasKobayashiShiShum-privacy.pdf
@@ -11,7 +11,7 @@ main:
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
-    notes: Accepted at the Review of Economic Studies (February, 2026)
+    # notes: Accepted at the Review of Economic Studies (February, 2026)
 
   - title: "Dynamic Auctions with Budget-Constrained Bidders: Evidence from the Online Advertising Market"
     authors: with Miguel Alcobendas (Yahoo)
