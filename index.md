@@ -15,6 +15,8 @@ My research interests lie in **Empirical Industrial Organization** and **Quantit
 - M.S. Economics, Caltech, 2019
 - B.S. Economics and Mathematics, *Valedictorian*, Cal Poly Pomona, 2018
 
+{% include_relative _includes/publications.md %}
+
 {% include_relative _includes/workingpapers.md %}
 
 ## Conference Presentations
