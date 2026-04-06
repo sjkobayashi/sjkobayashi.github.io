@@ -15,7 +15,7 @@ main:
 
   - title: "Can Privacy Technologies Replace Cookies? Ad Revenue in a Field Experiment"
     authors: with <a href="https://www.garjoh.com/">Garrett A. Johnson</a> (BU Questrom) and Zhengrong Gu (BU Questrom)
-    periodical: "Conditionally accepted at the Proceedings of the National Academy of Sciences (March, 2026)"
+    periodical: "Accepted at the Proceedings of the National Academy of Sciences (April, 2026)"
     abstract: >
       As regulators seek to balance user privacy with publisher sustainability, Google's Privacy Sandbox offers a potential replacement for third-party cookies. This paper presents the first independent estimates of the publisher-side economic effects of Privacy Sandbox, a suite of privacy-enhancing technologies for online advertising. Leveraging an open, industry-wide field experiment, we partner with a major ad management firm to evaluate over 200 million ad impressions across more than 5,000 publishers. We find that removing third-party cookies reduces publisher revenue by 29.1%, while Privacy Sandbox preserves just 4.2% of this lost revenue. We further document that Privacy Sandbox increases ad latency and reduces impression delivery by 2.9%. The results underscore the continued economic tension between privacy and the funding of online content.
     # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
