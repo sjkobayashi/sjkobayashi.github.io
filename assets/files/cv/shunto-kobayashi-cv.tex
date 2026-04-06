@@ -1,0 +1,246 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[letterpaper]{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+\usepackage[T1]{fontenc}
+\usepackage[sc,osf]{mathpazo}
+\usepackage{enumitem} % Enumerate with [resume] option
+
+% Set your name here
+\def\name{Shunto Jerry Kobayashi}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = blue,
+  pdfauthor = {\name},
+  pdfkeywords = {economics, industrial organization, applied microeconomics, econometrics},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+
+% Place name at left
+{\huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}{0.45\linewidth}
+  Boston University Questrom School of Business\\
+  595 Commonwealth Ave \\
+  Boston, MA, 02215, United States
+\end{minipage}
+\begin{minipage}{0.45\linewidth}
+  \begin{tabular}{ll}
+    % \href{http://www.stat-or.unc.edu/}{\tt http://www.stat-or.unc.edu/} \\
+    {\tt www.shuntokobayashi.com} \\
+    \href{mailto:sjkobaya@bu.edu}{\tt sjkobaya@bu.edu} \\
+  \end{tabular}
+\end{minipage}
+
+\section*{Academic Positions}
+
+\begin{itemize}
+  \item \textbf{Assistant Professor of Marketing}, \textit{Boston University Questrom School of Business} \hfill (July 2024-Present)
+  \item \textbf{Affiliated Faculty at the Economics Department}, \textit{Boston University} \hfill (July 2024-Present)
+\end{itemize}
+
+\section*{Education}
+
+\begin{itemize}
+  \item Ph.D. Social Science (Economics), Caltech \hfill 2024
+    \begin{itemize}
+    \item \textit{Committee}: Matthew Shum, Thomas Palfrey, Yi Xin, Gabriel Lopez-Moctezuma
+    \end{itemize}
+  \item M.S. Social Science (Economics), Caltech \hfill 2019
+  \item B.S. Economics and Mathematics, \textit{Valedictorian},
+    California State Polytechnic University, Pomona \hfill 2018
+\end{itemize}
+
+
+\section*{Research Interests}
+\begin{itemize}
+\item Empirical Industrial Organization, Quantitative Marketing, Digital Advertising, Privacy, Econometrics 
+\end{itemize}
+
+\section*{Published \& Forthcoming Papers}
+\begin{enumerate}[resume]
+\item \href{https://www.shuntokobayashi.com/assets/files/AlcobendasKobayashiShiShum-privacy.pdf}{``The Impact of Privacy Protection on Online Advertising Markets''} 
+
+  Miguel Alcobendas (Yahoo), \textbf{Shunto Kobayashi}, Ke Shi (SAIF), Matthew Shum (Caltech), alphab.
+
+  Accepted at the \textit{Review of Economic Studies} (February, 2026) and at EC'23 (extended abstract)
+
+\item \href{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5284526}{``Can Privacy Technologies Replace Cookies? Ad Revenue in a Field Experiment''}
+
+  Zhengrong Gu (BU), Garrett Johnson (BU), \textbf{Shunto Kobayashi}, alphabetical.
+
+    Conditionally accepted at the \textit{Proceedings of the National Academy of Sciences} (March, 2026)
+\end{enumerate}
+
+\section*{Working Papers}
+
+\begin{enumerate}[resume]
+\item \href{https://www.shuntokobayashi.com/assets/files/shunto-kobayashi-jmp.pdf}{``Dynamic Auctions with Budget-Constrained Bidders: Evidence from the Online Advertising Market''} 
+
+  \textbf{Shunto Kobayashi}, Miguel Alcobendas (Yahoo).
+
+\item \href{https://www.dropbox.com/scl/fi/oa78tjw7gdcugii1jg02c/JMP_AldoLucia.pdf}{``Robust Estimation of Risk Preferences''}
+
+  \textbf{Shunto Kobayashi}, Aldo Lucia (OSU), alphabetical.
+
+  Reject and Resubmit at \textit{Econometrica}
+
+\item \href{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4972368}{``Privacy-Enhanced versus Traditional Retargeting: Ad Effectiveness in an Industry-Wide Field Experiment''}
+
+  \textbf{Shunto Kobayashi}, Garrett Johnson (BU), Zhengrong Gu (BU), rev. alphabetical.
+\end{enumerate}
+
+% \section*{Work in Progress}
+
+% \begin{enumerate}[resume]
+% \item ``How Video Content Drives Sales in Influencer Marketing''
+
+%   \textit{Candice Huang (BU Questrom), \textbf{Shunto Kobayashi}}, alphabetical.
+% \end{enumerate}
+
+\section*{Presentations / Conferences}
+
+\begin{description}[font=\mdseries]
+\item[2026]
+  Boston College (planned), IIOC (Boston, planned), WoPA (UCSD, planned), ISMS (Lisbon, planned)
+\item[2025]
+  ASSA (SF), Data Blitz (BostonU), Bass FORMS (UTDallas), Japan IO Workshop, Conference on Digital Economics (Telecom Paris), EMAC (Madrid), Google Ads Privacy Conference (Mountain View), ISMS (Washington, DC), Workshop on the Economics of Advertising and Marketing (Tallinn, Estonia), UCSD Rady, Soft Law Summit (DC), Northeastern (Boston)
+\item[2024]
+  UCSD (econ), SciencesPo (econ), BostonU Questrom, SoCal Structural Econometrics Conference (Caltech), IIOC (Boston), DSE (Madison), QME (Stanford), NBER Market Design (Stanford), UToronto (econ), MarkTech (Columbia Business School)
+\item[2023]
+  North American Summer Meeting of the Econometric Society (Los Angeles)
+\item[2022]
+  International Industrial Organization Conference (Boston), National Taiwan University (econ)
+\end{description}
+
+\section*{Fellowships \& Awards}
+
+\begin{itemize}
+\item \textbf{ISMS Early-Career Scholars Camp Fellow} \hfill 2025
+\item \textbf{BU Questrom Business of AI Research Initiative Grant} \hfill 2025
+\item \textbf{Center for Industry Self-Regulation Research Grant} (\$10,000 award) \hfill 2024
+\item \textbf{NET Institute Research Grant} (\$3000 award) \hfill 2024
+\item \textbf{Linde Institute Graduate Research Grant} (\$5000 award) with Aldo Lucia (Caltech) \hfill 2022-2023
+\item \textbf{Linde Institute Graduate Fellowship} \hfill 2020-2021 
+\item \textbf{Linde Institute Graduate Research Grant} (\$5000 award) \hfill 2020-2021
+\end{itemize}
+
+\section*{Media Mentions}
+\begin{itemize}
+\item \href{https://www.adexchanger.com/privacy/paapi-could-be-as-effective-for-retargeting-as-third-parties- cookies-study-finds/}{``PAAPI Could Be As Effective For Retargeting As Third-Parties Cookies, Study Finds.''} Allison Schiff. AdExchanger. October 24, 2024.
+\item \href{https://www.adexchanger.com/data-privacy-roundup/no-shade-but-does-anyone-still-care-about-the-privacy-sandbox/}{``No Shade, But Does Anyone Still Care About The Privacy Sandbox?''} Allison Schiff. AdExchanger. June 9, 2024.
+\end{itemize}
+
+\section*{Teaching}
+\begin{itemize}
+\item \textbf{BA572: Business Experiments and Causal Methods} \hfill Fall 2024-Present
+\item \textbf{BA830: Business Experimentation and Causal Methods} \hfill Winter 2026-Present
+\end{itemize}
+
+\section*{Service}
+\subsection*{University Service}
+\begin{itemize}
+\item BU Questrom Marketing Seminar Organizer \hfill Fall 2024-Present
+\end{itemize}
+
+\subsection*{Referee Activities}
+\begin{itemize}
+\item \textbf{Scientific Committee:}
+  \begin{itemize}
+  \item ACM Web Conference, Economics, Online Markets and Human Computation Track  \hfill 2026 
+  \item ACM Conference on Economics and Computation \hfill 2025 
+  \end{itemize}
+\item \textbf{Ad Hoc Reviewing:} Management Science, Journal of Marketing Research, Quarterly Review of Economics and Finance 
+\end{itemize}
+
+\section*{Additional Information}
+\begin{itemize}
+\item \textbf{Languages:} English (fluent), Japanese (fluent)
+\item \textbf{Programming}: Julia, R, Python, Matlab, \LaTeX, Stan, Lua, SQL
+\item \textbf{Citizenship}: US, Japan
+\end{itemize}
+
+% \section*{References}
+% \begin{itemize}
+% \item Matthew Shum (mshum@caltech.edu) \hfill William D. Hacker Professor of Economics
+% \item Thomas Palfrey (trp@hss.caltech.edu) \hfill Flintridge Foundation Prof. of Economics and Political Science
+% \item Yi Xin (yixin@caltech.edu) \hfill Assistant Professor of Economics
+% \item Gabriel Lopez-Moctezuma (glmoctezuma@caltech.edu) \hfill Assistant Professor of Political Science
+% \end{itemize}
+
+\vfill
+
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    \href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+\end{center}
+
+\end{document}

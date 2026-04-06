@@ -6,7 +6,7 @@ I am an Assistant Professor of Marketing at Boston University's Questrom School 
 
 My research interests lie in **Empirical Industrial Organization** and **Quantitative Marketing**, with a focus on economic and privacy issues in online advertising and digital platforms. I use a combination of structural and causal inference methods to study these topics.
 
-- [[curriculum vitae]](assets/files/shunto-kobayashi-cv.pdf)
+- [[curriculum vitae]](assets/files/cv/shunto-kobayashi-cv.pdf)
 - <sjkobaya@bu.edu>
 
 
