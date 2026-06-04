@@ -26,6 +26,12 @@
       Abstract <i class='fas fa-chevron-down' style='font-size:10px'></i>
       </button>
       {% endif %}
+      {% if link.article %} 
+      <a href="{{ link.article }}" target="_blank">
+      <button class="btn btn-sm btn-bd-primary" type="button">
+      Article <i class='fas fa-external-link-alt' style='font-size:10px'></i>
+      </button></a>
+      {% endif %}
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" target="_blank">
       <button class="btn btn-sm btn-bd-primary" type="button">
