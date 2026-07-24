@@ -25,4 +25,4 @@ main:
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     # image: ./assets/img/teaser_example_2.png
-    notes: "Coverage: [AdExchanger](https://www.adexchanger.com/data-privacy-roundup/no-shade-but-does-anyone-still-care-about-the-privacy-sandbox/), [The Brink](https://www.bu.edu/articles/2026/should-you-accept-internet-cookies/)"
+    notes: "Coverage: [AdExchanger](https://www.adexchanger.com/data-privacy-roundup/no-shade-but-does-anyone-still-care-about-the-privacy-sandbox/), [The Brink](https://www.bu.edu/articles/2026/should-you-accept-internet-cookies/), [The Monopoly Report](https://monopoly-report.com/p/pets-what-are-they-good-for-anything), [Mobile Dev Memo podcast](https://mobiledevmemo.com/podcast-quantifying-the-advertising-value-of-cookies-with-garrett-johnson-and-shunto-kobayashi/)"

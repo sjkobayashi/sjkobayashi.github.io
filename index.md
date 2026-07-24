@@ -20,10 +20,10 @@ My research interests lie in **Empirical Industrial Organization** and **Quantit
 {% include_relative _includes/workingpapers.md %}
 
 ## Conference Presentations
-- 2026: Boston College, IIOC (Boston), WoPA (UCSD), ISMS (Lisbon, planned)
+- 2026: Boston College, IIOC (Boston), WoPA (UCSD), Yahoo Research, ISMS (Lisbon), Japan Fair Trade Commission, Workshop on Privacy, Gatekeepers, and Digital Sovereignty (TUM Heilbronn)
 - 2025: ASSA (SF), Data Blitz (BostonU), Bass FORMS (UTDallas), Japan IO Workshop, Conference on Digital Economics (Telecom Paris), EMAC (Madrid), Google Ads Privacy Conference (Mountain View), ISMS (Washington, DC), Workshop on the Economics of Advertising and Marketing (Tallinn, Estonia), UCSD Rady, Soft Law Summit (DC), Northeastern (Boston)
 - 2024: UCSD (econ), SciencesPo (econ), BostonU Questrom, SoCal Structural Econometrics Conference (Caltech), IIOC (Boston), DSE (Madison), QME (Stanford), NBER Market Design (Stanford), UToronto (econ), MarkTech (Columbia Business School)
-- 2023: North American Summer Meeting of the Econometric Society (Los Angeles)
+- 2023: North American Summer Meeting of the Econometric Society (Los Angeles), Yahoo Research
 - 2022: International Industrial Organization Conference (Boston), National Taiwan University (econ)
 
 ## Teaching
